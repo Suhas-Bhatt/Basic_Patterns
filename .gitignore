@@ -1,0 +1,10 @@
+# Ignore everything outside this folder
+/*
+
+# But track these project files
+!pattern.java
+!index.html
+!app.js
+!style.css
+!README.md
+!.gitignore
